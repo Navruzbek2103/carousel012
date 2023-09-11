@@ -1,0 +1,28 @@
+.carousel-box {
+    height: 700px;
+}
+
+.wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 400px;
+    height: 450px;
+}
+.main__box {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+.image__box {
+    width: 500px;
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+a {
+    text-decoration: none !important;
+}
